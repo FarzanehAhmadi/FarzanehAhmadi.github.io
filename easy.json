@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pic1",
+    "name": "cat",
+    "url": "/assets/easy/cat.jpg"
+  },
+  {
+    "id": "pic2",
+    "name": "chicken",
+    "url": "/assets/easy/chicken.jpg"
+  },
+  {
+    "id": "pic3",
+    "name": "dog",
+    "url": "/assets/easy/dog.jpg"
+  },
+  {
+    "id": "pic4",
+    "name": "elephant",
+    "url": "/assets/easy/elephant.jpg"
+  },
+  {
+    "id": "pic5",
+    "name": "frog",
+    "url": "/assets/easy/frog.jpg"
+  },
+  {
+    "id": "pic6",
+    "name": "lion",
+    "url": "/assets/easy/lion.jpg"
+  }
+]
