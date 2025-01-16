@@ -1,32 +1,42 @@
 [
   {
     "id": "pic1",
-    "name": "cat",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/cat.jpg"
+    "name": "mashroom1",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/medium/mashroom1.jpg?raw=true"
   },
   {
     "id": "pic2",
-    "name": "chicken",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/chicken.jpg"
+    "name": "mashroom2",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/medium/mashroom2.jpg?raw=true"
   },
   {
     "id": "pic3",
-    "name": "dog",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/dog.jpg"
+    "name": "mashroom3",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io/main/assets/medium/mashroom3.jpg?raw=true"
   },
   {
     "id": "pic4",
-    "name": "elephant",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/elephant.jpg"
+    "name": "mashroom4",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io/main/assets/medium/mashroom4.jpg?raw=true"
   },
   {
     "id": "pic5",
-    "name": "frog",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/frog.jpg"
+    "name": "mashr0om5",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io//main/assets/medium/mashroom5.jpg?raw=true"
   },
   {
     "id": "pic6",
-    "name": "lion",
-    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/lion.jpg"
+    "name": "mashroom6",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io/main/assets/medium/mashroom6.jpg?raw=true"
+  },
+  {
+    "id": "pic7",
+    "name": "mashroom7",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io/main/assets/medium/mashroom7.jpg?raw=true"
+  },
+  {
+    "id": "pic8",
+    "name": "mashroom8",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi.github.io/main/assets/medium/mashroom8.jpg?raw=true"
   }
 ]
