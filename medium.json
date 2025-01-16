@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pic1",
+    "name": "cat",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/cat.jpg"
+  },
+  {
+    "id": "pic2",
+    "name": "chicken",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/chicken.jpg"
+  },
+  {
+    "id": "pic3",
+    "name": "dog",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/dog.jpg"
+  },
+  {
+    "id": "pic4",
+    "name": "elephant",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/elephant.jpg"
+  },
+  {
+    "id": "pic5",
+    "name": "frog",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/frog.jpg"
+  },
+  {
+    "id": "pic6",
+    "name": "lion",
+    "url": "https://raw.githubusercontent.com/FarzanehAhmadi/FarzanehAhmadi.github.io/main/assets/easy/lion.jpg"
+  }
+]
